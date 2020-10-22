@@ -1,1 +1,1 @@
-# eth-miner
+# Water Springs
