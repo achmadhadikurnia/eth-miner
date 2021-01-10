@@ -1,0 +1,13 @@
+# Bash for ethermine.org pool
+./mine -G -U -P stratum1+tcp://0x614800397a8f503cc157ec9b8f81356fa74e3af6@asia1.ethermine.org:4444
+./mine -G -U -P stratum1+tcp://0x614800397a8f503cc157ec9b8f81356fa74e3af6@eu1.ethermine.org:4444
+./mine -G -U -P stratum1+tcp://0x614800397a8f503cc157ec9b8f81356fa74e3af6@us1.ethermine.org:4444
+./mine -G -U -P stratum1+tcp://0x614800397a8f503cc157ec9b8f81356fa74e3af6@us2.ethermine.org:4444
+./mine -G -U -P stratum1+tcp://0x614800397a8f503cc157ec9b8f81356fa74e3af6@asia1.ethermine.org:14444
+./mine -G -U -P stratum1+tcp://0x614800397a8f503cc157ec9b8f81356fa74e3af6@eu1.ethermine.org:14444
+./mine -G -U -P stratum1+tcp://0x614800397a8f503cc157ec9b8f81356fa74e3af6@us1.ethermine.org:14444
+./mine -G -U -P stratum1+tcp://0x614800397a8f503cc157ec9b8f81356fa74e3af6@us2.ethermine.org:14444
+./mine -G -U -P stratum1+ssl://0x614800397a8f503cc157ec9b8f81356fa74e3af6@asia1.ethermine.org:5555
+./mine -G -U -P stratum1+ssl://0x614800397a8f503cc157ec9b8f81356fa74e3af6@eu1.ethermine.org:5555
+./mine -G -U -P stratum1+ssl://0x614800397a8f503cc157ec9b8f81356fa74e3af6@us1.ethermine.org:5555
+./mine -G -U -P stratum1+ssl://0x614800397a8f503cc157ec9b8f81356fa74e3af6@us2.ethermine.org:5555
