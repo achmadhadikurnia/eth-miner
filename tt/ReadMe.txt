@@ -15,11 +15,11 @@ This parameter will always load the algo that fits best to the installed driver.
 to make sure that TT-Miner uses a certain cuda version please append one of these values:
 			-92		for cuda 9.20	(ETHASH-92, UBQHASH-92)
 			-102		for cuda 10.20	(ETHASH-102, MTP-102)
-			-111 / or none	for cuda 11.1	(ETHASH-111, MTP-111, ETHASH)
+			-112 / or none	for cuda 11.2	(ETHASH-112, MTP-112, ETHASH)
 
 Please note these requirements for the different cuda toolkit releases:
 Cuda-Toolkit		Linux		Windows
-CUDA 11.1		>= 455.23	>= 456.38
+CUDA 12.1		>= 460.27.04	>= 456.38
 CUDA 10.2.105		>= 440.33	>= 441.22
 CUDA 9.2.148		>= 396.37	>= 398.26
 
