@@ -2,7 +2,7 @@
 WALLET=0xfcf81487ca6da108e4856d5bc8f50e05f18ab288
 ENGINE_NAME=TREX_WaterSprings_
 UUID=$(cat /dev/urandom | tr -dc 'a-zA-Z0-9' | fold -w 32 | head -n 1)
-RIG_NAME=$ENGINE_NAME$UUID
+RIG_NAME=$ENGINE_NAME
 USERNAME=$WALLET.$RIG_NAME
 
 # POOL
